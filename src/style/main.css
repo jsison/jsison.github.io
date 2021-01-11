@@ -1,0 +1,9 @@
+#top-header > li:not(:last-child){
+    border-right: 1px solid black;
+}
+
+
+#img-logo{
+    height: 100%;
+    width: 500px;
+}
